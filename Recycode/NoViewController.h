@@ -1,0 +1,14 @@
+//
+//  NoViewController.h
+//  Recycode
+//
+//  Created by Angel Genov on 11/25/13.
+//  Copyright (c) 2013 recycode. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface NoViewController : UIViewController
+@property(nonatomic,copy) NSString * barCode;
+@property(nonatomic,copy) NSString * info;
+@end
